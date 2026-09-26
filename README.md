@@ -95,7 +95,7 @@ I'm currently working towards becoming a strong Full-Stack Developer, exploring 
 
 <h2>🍎 <strong>Featured Project — Smart India Nutrition</strong></h2>
 > A web application focused on Indian food, nutrition, and healthier
-> everyday food choices.
+> everyday food choices.>
 
 ### ✨ Highlights
 
