@@ -67,20 +67,37 @@ I'm currently working towards becoming a strong Full-Stack Developer, exploring 
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+
+
+<h3>🎨 Frontend</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cpp" />
+  HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
 </p>
 
-### 🗄️ Databases
+
+
+
+<h3>⚙️ Backend</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cpp" />
+</p>
+
+<p>
+  Node.js • Express.js • Python • C • C++
+</p>
+
+<h3>🗄️ Database</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+<p>
+  MongoDB • MySQL • PostgreSQL
 </p>
