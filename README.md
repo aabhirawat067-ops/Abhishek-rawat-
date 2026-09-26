@@ -50,18 +50,18 @@ I'm currently working towards becoming a strong Full-Stack Developer, exploring 
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-rawat-112b052a1?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+<a href="https://www.instagram.com/https://www.instagram.com/abhi_rawat027?stkn=OXZlMXBzb2FhazF2/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
 </a>
 
-<a href="https://www.facebook.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+<a href="https://www.facebook.com/https://www.facebook.com/share/19ceGQBW2z/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-</p>
 
 ---
 
