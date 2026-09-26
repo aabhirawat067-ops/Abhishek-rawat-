@@ -102,7 +102,9 @@ I'm currently working towards becoming a strong Full-Stack Developer, exploring 
   MongoDB • MySQL • PostgreSQL
   <p>&nbsp;</p>
 
-<h3 align="center">🍎 Featured Project — Smart India Nutrition</h3>
+<div align="center">
+
+<h2>🍎 <strong>Featured Project — Smart India Nutrition</strong></h2>
 
 > A web application focused on Indian food, nutrition, and healthier
 > everyday food choices.
