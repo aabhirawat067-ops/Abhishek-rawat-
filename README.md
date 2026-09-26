@@ -96,6 +96,7 @@ A responsive web application designed to promote healthier everyday food choices
 
 <div align="center">
 
+
 > “I don't chase the future — I build what comes next.”
 
 — Abhishek Rawat
