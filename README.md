@@ -1,124 +1,103 @@
 <div align="center">
 
-# Hi 👋, I'm Abhishek Rawat
-<img align="right" alt="coding" width="375"
-src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+# Hi, I'm Abhishek Rawat 👋
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" width="420" />
 
 ### Full-Stack Developer in the Making 🚀
 
-Passionate about building clean, responsive, and meaningful web applications.
+I build clean, responsive, and meaningful web applications with a strong focus on user experience, performance, and real-world impact.
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me 💡
 
+Hey! I'm Abhishek, a passionate developer who enjoys transforming ideas into practical digital experiences.
 
-Hey! I'm a developer passionate about turning ideas into real-world applications.
+I am currently strengthening my full-stack development skills by working across frontend interfaces, backend logic, APIs, databases, and deployment workflows.
 
-I'm currently working towards becoming a strong Full-Stack Developer, exploring everything from beautiful frontend interfaces to backend APIs, databases, and deployment.
+- 🔭 Currently working on: Smart India Nutrition
+- 🌱 Learning: Full-Stack Development, APIs, database design, and deployment
+- 💻 Interested in: Web Development, Software Engineering, UI/UX, and scalable product building
+- 🚀 Curious about: modern web technologies and innovative solutions
+- 🤝 Open to: collaboration, internships, and meaningful projects
 
-- 🔭 Currently working on Smart Indian Nutrition
-- 🌱 Currently learning and improving my Full-Stack Development skills
-- 💻 Interested in Web Development, APIs, Databases & Software Engineering
-- 🚀 Always curious about new technologies
-- 🤝 Open to collaborating on interesting projects
+---
 
+## Tech Stack 🛠️
 
-
-## 📬 Reach me at
-
+### Frontend
 <p>
-<a href="mailto:abhishekkrawat6087@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-abhishekkrawat6087%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cpp" alt="Backend technologies" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database technologies" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Featured Project 🌟
 
-<p>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-rawat-112b052a1?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### Smart India Nutrition
 
-<a href="https://www.instagram.com/https://www.instagram.com/abhi_rawat027?stkn=OXZlMXBzb2FhazF2/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+A responsive web application designed to promote healthier everyday food choices with a focus on Indian nutrition and awareness.
 
-</a>
-
-<a href="https://www.facebook.com/https://www.facebook.com/share/19ceGQBW2z/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
----
-
-## 🛠️ Tech Stack
-
-
-
-<h3>🎨 Frontend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-</p>
-
-<p>
-  HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap
-</p>
-
-
-
-
-<h3>⚙️ Backend</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,c,cpp" />
-</p>
-
-<p>
-  Node.js • Express.js • Python • C • C++
-</p>
-
-<h3>🗄️ Database</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-<p>
-  MongoDB • MySQL • PostgreSQL
-  <p>&nbsp;</p>
-
-
-<h2>🍎 <strong>Featured Project — Smart India Nutrition</strong></h2>
-> A web application focused on Indian food, nutrition, and healthier
-> everyday food choices.>
-
-### ✨ Highlights
-
-- 🇮🇳 Focused on Indian foods and nutrition
-- 🥗 Nutrition information in a simple format
-- 📱 Responsive and user-friendly interface
+- 🇮🇳 Focused on Indian food and nutrition guidance
+- 🥗 Simple, user-friendly information layout
+- 📱 Mobile-friendly, responsive design
 - 🚀 Deployed on Vercel
 - 💻 Built as a full-stack development project
 
-### 🔗 Live Project
-
 <a href="https://smart-india-nutrition.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-Click%20Here-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Live%20Project-Click%20Here-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View live project" />
 </a>
-<p>&nbsp;</p>
+
+---
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabhirawat067-ops&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabhirawat067-ops&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+## Connect With Me 🤝
+
+<p>
+  <a href="mailto:abhishekkrawat6087@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/aabhirawat067-ops" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-rawat-112b052a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/abhi_rawat027" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/share/19ceGQBW2z/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
 <div align="center">
 
-<h2>My Philosophy</h2>
+> “I don't chase the future — I build what comes next.”
 
-<blockquote>
-  <strong>“I don't chase the future — I build what comes next.”</strong>
-</blockquote>
-
-<p>— Abhishek Rawat</p>
+— Abhishek Rawat
 
 </div>
