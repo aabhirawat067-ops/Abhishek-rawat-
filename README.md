@@ -100,4 +100,35 @@ I'm currently working towards becoming a strong Full-Stack Developer, exploring 
 
 <p>
   MongoDB • MySQL • PostgreSQL
-</p>
+  <p>&nbsp;</p>
+
+<h>## 🍎 Featured Project — Smart India Nutrition</h>
+
+> A web application focused on Indian food, nutrition, and healthier
+> everyday food choices.
+
+### ✨ Highlights
+
+- 🇮🇳 Focused on Indian foods and nutrition
+- 🥗 Nutrition information in a simple format
+- 📱 Responsive and user-friendly interface
+- 🚀 Deployed on Vercel
+- 💻 Built as a full-stack development project
+
+### 🔗 Live Project
+
+<a href="https://smart-india-nutrition.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-Click%20Here-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<p>&nbsp;</p>
+<div align="center">
+
+<h2>My Philosophy</h2>
+
+<blockquote>
+  <strong>“I don't chase the future — I build what comes next.”</strong>
+</blockquote>
+
+<p>— Abhishek Rawat</p>
+
+</div>
