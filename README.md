@@ -25,17 +25,7 @@ I'm currently working towards becoming a strong Full-Stack Developer, exploring 
 - 🚀 Always curious about new technologies
 - 🤝 Open to collaborating on interesting projects
 
-</td>
 
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhishekkrawat/abhishekkrawat/main/assets/developer.png" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📬 Reach me at
 
