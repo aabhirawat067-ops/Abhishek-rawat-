@@ -45,31 +45,6 @@ I am currently strengthening my full-stack development skills by working across 
 
 ---
 
-## Featured Project 🌟
-
-### Smart India Nutrition
-
-A responsive web application designed to promote healthier everyday food choices with a focus on Indian nutrition and awareness.
-
-- 🇮🇳 Focused on Indian food and nutrition guidance
-- 🥗 Simple, user-friendly information layout
-- 📱 Mobile-friendly, responsive design
-- 🚀 Deployed on Vercel
-- 💻 Built as a full-stack development project
-
-<a href="https://smart-india-nutrition.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Live%20Project-Click%20Here-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View live project" />
-</a>
-
----
-# 🌐 My Portfolio
-
-<p align="center">
-
-
-
-A place where I showcase my **projects, skills, creativity & journey** as a developer.
-
 <br>
 
 <a href="https://aabhirawat067-ops.github.io/portfolio/">
@@ -123,3 +98,26 @@ A place where I showcase my **projects, skills, creativity & journey** as a deve
 — Abhishek Rawat
 
 </div>
+
+---
+
+## 🚀 My Projects & Portfolio
+
+### 🌿 Smart India Nutrition
+
+A full-stack nutrition platform focused on food recommendations, nutrition information, health guidance, calculators, and AI-assisted nutrition features.
+
+**Tech Stack:** React.js • Vite • Node.js • Express.js • PostgreSQL
+
+🌐 **[Live Project](https://smart-india-nutrition.vercel.app/)**  
+💻 **[Source Code](https://github.com/aabhirawat067-ops/Smart-india-nutrition)**
+
+---
+
+### 💻 My Portfolio
+
+My personal developer portfolio showcasing my projects, skills, and development journey.
+
+🌐 **[Visit My Portfolio](https://aabhirawat067-ops.github.io/portfolio/#projects)**
+
+---
