@@ -50,7 +50,7 @@ I am currently strengthening my full-stack development skills by working across 
 
 </a>
 
-<br><br>
+# <h>Thought🙌<h/>
 
 **💻 Build • 🚀 Create • 🧠 Learn • 🔥 Grow**
 
