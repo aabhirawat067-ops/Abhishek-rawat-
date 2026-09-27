@@ -62,13 +62,25 @@ A responsive web application designed to promote healthier everyday food choices
 </a>
 
 ---
-## 🚀 My Portfolio
+# 🌐 My Portfolio
 
-### 🌟 Personal Portfolio Website
+<p align="center">
 
-A personal portfolio showcasing my projects, skills, and journey as a developer.
+## 👋 Welcome to My Portfolio
 
-👉 **[🌐 Visit My Portfolio](https://aabhirawat067-ops.github.io/portfolio/)**
+A place where I showcase my **projects, skills, creativity & journey** as a developer.
+
+<br>
+
+<a href="https://aabhirawat067-ops.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+**💻 Build • 🚀 Create • 🧠 Learn • 🔥 Grow**
+
+</p>
 
 ---
 
