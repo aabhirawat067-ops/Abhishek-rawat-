@@ -47,8 +47,7 @@ I am currently strengthening my full-stack development skills by working across 
 
 <br>
 
-<a href="https://aabhirawat067-ops.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+<a src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
