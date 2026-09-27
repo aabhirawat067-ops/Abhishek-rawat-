@@ -66,7 +66,7 @@ A responsive web application designed to promote healthier everyday food choices
 
 <p align="center">
 
-## 👋 Welcome to My Portfolio
+
 
 A place where I showcase my **projects, skills, creativity & journey** as a developer.
 
