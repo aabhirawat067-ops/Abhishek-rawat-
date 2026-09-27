@@ -47,7 +47,7 @@ I am currently strengthening my full-stack development skills by working across 
 
 <br>
 
-<a src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" />
+
 </a>
 
 <br><br>
@@ -99,6 +99,8 @@ I am currently strengthening my full-stack development skills by working across 
 </div>
 
 ---
+<br>
+<br>
 
 ## 🚀 My Projects & Portfolio
 
