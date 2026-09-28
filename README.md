@@ -71,14 +71,6 @@ I am currently strengthening my full-stack development skills by working across 
 
 </p>
 
----
-
-## GitHub Stats 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabhirawat067-ops&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabhirawat067-ops&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
