@@ -129,6 +129,15 @@ A full-stack nutrition platform focused on food recommendations, nutrition infor
 💻 **[Source Code](https://github.com/aabhirawat067-ops/Smart-india-nutrition)**
 
 ---
+### 🌤️ Weather Forecast App
+
+A responsive weather app built with **React + Vite**, featuring city search, current location weather, dark mode, and a 7-day forecast.
+
+🔗 **[Live Demo →](https://aabhirawat067-ops.github.io/weather-forecast-app/)**
+💻 **[Source Code →](https://github.com/aabhirawat067-ops/weather-forecast-app)**
+
+**Tech:** React • Vite • JavaScript • CSS • Open-Meteo API
+
 
 ### 💻 My Portfolio
 
@@ -137,3 +146,4 @@ My personal developer portfolio showcasing my projects, skills, and development 
 🌐 **[Visit My Portfolio](https://aabhirawat067-ops.github.io/portfolio/#projects)**
 
 ---
+
