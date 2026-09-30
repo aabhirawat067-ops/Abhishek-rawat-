@@ -134,9 +134,10 @@ A responsive weather app built with **React + Vite**, featuring city search, cur
 
 ### 🎬 Movie Explorer
 
-A full-stack movie discovery platform built with **React, Vite, Node.js & Express**. Explore trending, popular and upcoming movies, search by title, filter by genre, view details and save favorites. Uses **TMDB API** with a dedicated backend for secure API handling.
+A full-stack movie discovery platform built with **React, Vite, Node.js & Express**. Explore trending, popular and upcoming movies, search by title, filter by genre, view movie details and save favorites. Uses **TMDB API** with a dedicated backend for secure API handling.
 
-🔗 **[Live Demo](https://aabhirawat067-ops.github.io/movie-explorer/)** • **[Frontend](https://github.com/aabhirawat067-ops/movie-explorer)** • * **Backend:** (https://github.com/aabhirawat067-ops/Movie-backend-)
+🔗 **[Live Demo](https://aabhirawat067-ops.github.io/movie-explorer/)** • **[Frontend](https://github.com/aabhirawat067-ops/movie-explorer)** • **[Backend](https://github.com/aabhirawat067-ops/Movie-backend-)**
+
 
 
 ### 💻 My Portfolio
